@@ -1,2 +1,4 @@
 # copula-financial-anomaly-detection
 ガウシアンコピュラを用いて日経225とS&P500の依存関係をモデリングし、通常とは異なる市場連動パターンを異常として検知するシステムを構築
+
+hello from newnaoki
